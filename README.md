@@ -11,7 +11,9 @@ This is a little tool program that can synchronize the records of recently used 
 
 __t__  stands for the time interval between checks (unit: second), default is 2 seconds.
 
-### Make it AutoStart ###
 Make the program auto-start. It will synchronize the records every [t] seconds in background silently.
+=======
+## Make it AutoStart ##
+Make the program auto-start. It will synchronize the records in  background silently.
 
 
